@@ -2,7 +2,7 @@
 
 _Auto-Generate Interactive Video Lessons from YouTube or Uploaded Lectures_
 
-## 🎓 What It Does
+##  What It Does
 - Converts long lecture videos into:
   - Summarized notes
   - Auto-generated quizzes (MCQs)
@@ -10,14 +10,14 @@ _Auto-Generate Interactive Video Lessons from YouTube or Uploaded Lectures_
   - Short recap videos
   - Interactive TTS quiz bot
 
-## 🏗 Architecture
+##  Architecture
 - Frontend: Next.js
 - Backend API: Go (Gin / Fiber)
 - AI Service: Python FastAPI + Hugging Face
 - Database: PostgreSQL / Supabase
 - Video Processing: yt-dlp + ffmpeg
 
-## 🔍 How It Works
+##  How It Works
 1. User submits YouTube URL / Uploads video
 2. Backend stores metadata
 3. AI service extracts:
@@ -28,7 +28,7 @@ _Auto-Generate Interactive Video Lessons from YouTube or Uploaded Lectures_
    - TTS (Bark / espnet)
 4. Frontend displays interactive learning experience
 
-## 🚀 Tech Stack
+##  Tech Stack
 - Go 1.22+ (Backend)
 - Python 3.9+ (AI services)
 - Hugging Face Transformers
@@ -36,7 +36,7 @@ _Auto-Generate Interactive Video Lessons from YouTube or Uploaded Lectures_
 - PostgreSQL / Supabase
 - ffmpeg / yt-dlp
 
-## 🏁 Getting Started
+##  Getting Started
 ### Prerequisites
 - Go 1.22+
 - Python 3.9+
