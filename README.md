@@ -36,29 +36,12 @@ _Auto-Generate Interactive Video Lessons from YouTube or Uploaded Lectures_
 - PostgreSQL / Supabase
 - ffmpeg / yt-dlp
 
-##  Getting Started
-### Prerequisites
+##
+### 
 - Go 1.22+
 - Python 3.9+
 - Node.js 20.x
 - PostgreSQL or Supabase
 - ffmpeg + yt-dlp
 
-### Setup
-```bash
-# Clone repo
-git clone https://github.com/your-username/eduvision-ai.git
 
-# Frontend
-cd frontend
-npm install
-
-# Backend (Go)
-cd ../backend-go
-go mod tidy
-
-# AI Service
-cd ../ai-service
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
