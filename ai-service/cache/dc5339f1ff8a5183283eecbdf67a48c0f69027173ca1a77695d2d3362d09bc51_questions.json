@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What event marked the beginning of the Alabasta Kingdom?",
+            "options": [
+                "The planting of Ohara's Great Tree of Omniscience.",
+                "The construction of Alabara Palace.",
+                "The birth of Zunesha.",
+                "The creation of Devil Fruits."
+            ],
+            "answer": "The construction of Alabara Palace."
+        },
+        {
+            "question": "Approximately when did the Moon People migrate to Earth?",
+            "options": [
+                "Year 0",
+                "Year 400",
+                "Year 500",
+                "Year 600"
+            ],
+            "answer": "Year 400"
+        },
+        {
+            "question": "What significant event happened around year 600?",
+            "options": [
+                "The birth of Zunesha.",
+                "The construction of Dress Rosa Palace.",
+                "The beginning of the war between the Long Arm and Longleg tribes.",
+                "The creation of the global currency, Berry."
+            ],
+            "answer": "The construction of Dress Rosa Palace."
+        },
+        {
+            "question": "Who is credited with writing the poneglyphs for Joy Boy?",
+            "options": [
+                "Nefertari D. Lily",
+                "A citizen of Wano",
+                "Tom",
+                "Montblanc Noland"
+            ],
+            "answer": "A citizen of Wano"
+        },
+        {
+            "question": "What caused the world's water level to rise by 200 meters?",
+            "options": [
+                "The melting of glaciers due to global warming.",
+                "A massive earthquake.",
+                "The events of the war against Joy Boy.",
+                "The activation of an Ancient Weapon."
+            ],
+            "answer": "The events of the war against Joy Boy."
+        },
+        {
+            "question": "What is the name of the erased period of history?",
+            "options": [
+                "The Great War",
+                "The Void Century",
+                "The Age of Pirates",
+                "The Lunarian Era"
+            ],
+            "answer": "The Void Century"
+        },
+        {
+            "question": "Who is believed to be one of the 20 Kings who formed the World Government?",
+            "options": [
+                "Joy Boy",
+                "Gol D. Roger",
+                "Im",
+                "Edward Newgate"
+            ],
+            "answer": "Im"
+        },
+        {
+            "question": "What legendary swordsman defeated a giant dragon in Wano?",
+            "options": [
+                "Zoro",
+                "Ryuma",
+                "Shimotsuki Ushimaru",
+                " Oden"
+            ],
+            "answer": "Shimotsuki Ushimaru"
+        },
+        {
+            "question": "What event led to the creation of Mother Caramel's orphanage?",
+            "options": [
+                "The capture of Morley.",
+                "The Giant Warrior Pirates' rampage.",
+                "The poisoning of the four lords in Wano.",
+                "The abandonment of Charlotte Linlin."
+            ],
+            "answer": "The abandonment of Charlotte Linlin."
+        },
+        {
+            "question": "What significant event occurred at God Valley?",
+            "options": [
+                "The execution of Gol D. Roger.",
+                "The downfall of the Rocks Pirates.",
+                "The birth of Monkey D. Luffy.",
+                "The activation of Pluton."
+            ],
+            "answer": "The downfall of the Rocks Pirates."
+        }
+    ]
+}

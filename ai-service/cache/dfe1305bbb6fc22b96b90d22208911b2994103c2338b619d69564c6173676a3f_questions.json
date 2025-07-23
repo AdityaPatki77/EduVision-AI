@@ -1,0 +1,93 @@
+{
+    "questions": [
+        {
+            "question": "What is the author's main argument regarding the best approach to learning AI?",
+            "options": [
+                "Focus solely on theoretical knowledge before practical application.",
+                "Prioritize learning no-code/low-code tools for quick results.",
+                "Combine theoretical understanding with hands-on practice and reverse engineering.",
+                "Master advanced mathematics and statistics as a foundation."
+            ],
+            "answer": "Combine theoretical understanding with hands-on practice and reverse engineering.",
+            "keywords": [
+                "practical",
+                "hands-on",
+                "reverse engineering",
+                "theoretical",
+                "combination"
+            ],
+            "explanation": "The author advocates a practical approach, emphasizing learning by doing and filling knowledge gaps through experience."
+        },
+        {
+            "question": "According to the author, what is the most crucial initial step in learning AI?",
+            "options": [
+                "Learning advanced Python libraries.",
+                "Understanding the theoretical foundations of AI.",
+                "Setting up a functional programming environment.",
+                "Building a simple AI application using no-code tools."
+            ],
+            "answer": "Setting up a functional programming environment.",
+            "keywords": [
+                "environment",
+                "setup",
+                "programming",
+                "python",
+                "installation"
+            ],
+            "explanation": "The author stresses the importance of establishing a comfortable and functional programming environment before diving into coding."
+        },
+        {
+            "question": "What programming language does the author recommend for learning AI?",
+            "options": [
+                "Java",
+                "C++",
+                "Python",
+                "R"
+            ],
+            "answer": "Python",
+            "keywords": [
+                "python",
+                "programming language",
+                "AI",
+                "data science"
+            ],
+            "explanation": "Python is explicitly mentioned as the go-to language for AI and data science."
+        },
+        {
+            "question": "What key libraries are recommended for data manipulation and visualization in the context of AI development?",
+            "options": [
+                "TensorFlow and Keras",
+                "PyTorch and scikit-learn",
+                "NumPy, Pandas, and Matplotlib",
+                "React and Node.js"
+            ],
+            "answer": "NumPy, Pandas, and Matplotlib",
+            "keywords": [
+                "numpy",
+                "pandas",
+                "matplotlib",
+                "data manipulation",
+                "visualization"
+            ],
+            "explanation": "These libraries are specifically mentioned for their roles in data handling and visualization."
+        },
+        {
+            "question": "What is the author's perspective on the current AI hype and the availability of no-code/low-code tools?",
+            "options": [
+                "No-code/low-code tools are sufficient for building robust AI applications.",
+                "No-code/low-code tools are a waste of time and should be avoided.",
+                "No-code/low-code tools are useful for prototyping but lack depth for complex applications.",
+                "No-code/low-code tools are the future of AI development."
+            ],
+            "answer": "No-code/low-code tools are useful for prototyping but lack depth for complex applications.",
+            "keywords": [
+                "no-code",
+                "low-code",
+                "prototyping",
+                "limitations",
+                "complex applications"
+            ],
+            "explanation": "The author acknowledges the value of these tools for simple projects but emphasizes the need for coding skills for more advanced AI development."
+        }
+    ]
+}

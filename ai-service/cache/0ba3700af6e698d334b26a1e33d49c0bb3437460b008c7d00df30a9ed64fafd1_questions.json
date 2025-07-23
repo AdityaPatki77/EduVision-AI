@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What website does the instructor use as a reference for the C++ course?",
+            "options": [
+                "Codecademy",
+                "GeeksforGeeks",
+                "W3Schools",
+                "Stack Overflow"
+            ],
+            "answer": "W3Schools"
+        },
+        {
+            "question": "According to the instructor, what is the primary benefit of learning C++?",
+            "options": [
+                "High salary potential",
+                "Ease of use",
+                "Development of fundamental programming concepts",
+                "Wide range of libraries"
+            ],
+            "answer": "Development of fundamental programming concepts"
+        },
+        {
+            "question": "What is the purpose of `#include <iostream>` in a C++ program?",
+            "options": [
+                "To define the main function",
+                "To include a header file containing input/output functionalities",
+                "To declare variables",
+                "To create a namespace"
+            ],
+            "answer": "To include a header file containing input/output functionalities"
+        },
+        {
+            "question": "What does `using namespace std;` do in a C++ program?",
+            "options": [
+                "Creates a new namespace",
+                "Imports all standard library components",
+                "Defines a main function",
+                "Includes a header file"
+            ],
+            "answer": "Imports all standard library components"
+        },
+        {
+            "question": "What is the first line of code typically written in a C++ program (after comments)?",
+            "options": [
+                "`using namespace std;`",
+                "`int main() {`",
+                "`#include <iostream>`",
+                "`cout << \"Hello, world!\" << endl;`"
+            ],
+            "answer": "`#include <iostream>`"
+        }
+    ]
+}

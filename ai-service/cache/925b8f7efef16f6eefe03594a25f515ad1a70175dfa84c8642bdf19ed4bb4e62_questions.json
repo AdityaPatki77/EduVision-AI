@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary definition of data science as presented in the transcript?",
+            "options": [
+                "The study of algorithms and programming languages.",
+                "The study of data, combining domain expertise, programming, statistics, and mathematics.",
+                "The application of advanced marketing techniques to business problems.",
+                "The exclusive use of statistical models for business decision-making."
+            ],
+            "answer": "The study of data, combining domain expertise, programming, statistics, and mathematics."
+        },
+        {
+            "question": "According to the transcript, why is data science considered a 'sexy' profession?",
+            "options": [
+                "It offers high salaries and limited work hours.",
+                "It provides competitive advantages to businesses and vast career growth opportunities.",
+                "It requires minimal education and training.",
+                "It involves working with cutting-edge technology but limited real-world impact."
+            ],
+            "answer": "It provides competitive advantages to businesses and vast career growth opportunities."
+        },
+        {
+            "question": "Which of the following is NOT listed as a key benefit of data science for businesses?",
+            "options": [
+                "Improved marketing and sales programs.",
+                "Increased operational efficiency.",
+                "Reduced employee turnover.",
+                "Identifying new business opportunities."
+            ],
+            "answer": "Reduced employee turnover."
+        },
+        {
+            "question": "What are the four pillars of data science mastery mentioned in the transcript?",
+            "options": [
+                "Mathematics, Statistics, Programming, and Communication.",
+                "Business domain, Mathematics, Communication, and Computer Science.",
+                "Data mining, Machine learning, Deep learning, and Cloud computing.",
+                "Python, R, SQL, and Java."
+            ],
+            "answer": "Business domain, Mathematics, Communication, and Computer Science."
+        },
+        {
+            "question": "When did the term 'data scientist' first emerge, according to the transcript?",
+            "options": [
+                "2002",
+                "2008",
+                "2015",
+                "1998"
+            ],
+            "answer": "2008"
+        },
+        {
+            "question": "What is the role of a data engineer within a data science team?",
+            "options": [
+                "Deploying models into applications.",
+                "Specifying the business problem.",
+                "Cleaning and preparing data and determining access.",
+                "Looking after the underlying processes and infrastructure."
+            ],
+            "answer": "Cleaning and preparing data and determining access."
+        },
+        {
+            "question": "Which programming languages are mentioned as commonly used by data scientists?",
+            "options": [
+                "C++, Java, and C#",
+                "R, Python, Julia, Java, SQL, and Scala",
+                "HTML, CSS, and JavaScript",
+                "MATLAB, SAS, and SPSS"
+            ],
+            "answer": "R, Python, Julia, Java, SQL, and Scala"
+        },
+        {
+            "question": "What Python-based libraries are mentioned as commonly used in data science?",
+            "options": [
+                "Pandas, Scikit-learn, NumPy, Matplotlib, TensorFlow, and PyTorch",
+                "React, Angular, and Vue.js",
+                "Node.js, Express.js, and MongoDB",
+                "Spring, Hibernate, and Struts"
+            ],
+            "answer": "Pandas, Scikit-learn, NumPy, Matplotlib, TensorFlow, and PyTorch"
+        },
+        {
+            "question": "According to the transcript, what is the typical work environment for a data scientist?",
+            "options": [
+                "Primarily solo work.",
+                "Mostly remote work.",
+                "Team-based collaboration.",
+                "Independent consulting."
+            ],
+            "answer": "Team-based collaboration."
+        },
+        {
+            "question": "What tools are mentioned for reproducible research and reporting in data science?",
+            "options": [
+                "Jupyter Lab and Jupyter",
+                "Microsoft Word and Excel",
+                "Google Docs and Sheets",
+                "LaTeX and Overleaf"
+            ],
+            "answer": "Jupyter Lab and Jupyter"
+        }
+    ]
+}

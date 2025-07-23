@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is the instructor's name?",
+            "options": [
+                "M. Hamadani",
+                "Msh Hamadani",
+                "Hamadani M.",
+                "M. Shah"
+            ],
+            "answer": "Msh Hamadani"
+        },
+        {
+            "question": "According to the transcript, what is the average salary of a Python developer in the US (as of March 2018)?",
+            "options": [
+                "$100,000",
+                "$115,000+",
+                "$90,000",
+                "$125,000"
+            ],
+            "answer": "$115,000+"
+        },
+        {
+            "question": "Which Python version is the instructor teaching in this course?",
+            "options": [
+                "Python 2",
+                "Python 3",
+                "Python 2.7",
+                "Python 3.13"
+            ],
+            "answer": "Python 3"
+        },
+        {
+            "question": "What is the recommended step for Windows users during Python installation?",
+            "options": [
+                "Check 'Add Python to PATH'",
+                "Install Python 2",
+                "Install Python 3.13",
+                "Skip the installation"
+            ],
+            "answer": "Check 'Add Python to PATH'"
+        },
+        {
+            "question": "What code editor does the instructor prefer and use in this course?",
+            "options": [
+                "Atom",
+                "Sublime Text",
+                "VS Code",
+                "PyCharm"
+            ],
+            "answer": "VS Code"
+        }
+    ]
+}

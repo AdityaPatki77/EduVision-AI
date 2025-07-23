@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is a subfield of Artificial Intelligence (AI)?",
+            "options": [
+                "Thermodynamics",
+                "Physics",
+                "Machine Learning",
+                "Chemistry"
+            ],
+            "answer": "Machine Learning"
+        },
+        {
+            "question": "What is the key difference between supervised and unsupervised learning models?",
+            "options": [
+                "Supervised models use unlabeled data, unsupervised models use labeled data",
+                "Supervised models are faster, unsupervised models are slower",
+                "Supervised models use labeled data, unsupervised models use unlabeled data",
+                "There is no significant difference"
+            ],
+            "answer": "Supervised models use labeled data, unsupervised models use unlabeled data"
+        },
+        {
+            "question": "What type of AI model learns from the relationship between labels of data points and classifies those data points?",
+            "options": [
+                "Generative Model",
+                "Large Language Model",
+                "Discriminative Model",
+                "Semi-supervised Model"
+            ],
+            "answer": "Discriminative Model"
+        },
+        {
+            "question": "Which of the following is NOT an example of a generative AI model type?",
+            "options": [
+                "Text-to-image model",
+                "Text-to-text model",
+                "Text-to-task model",
+                "Supervised learning model"
+            ],
+            "answer": "Supervised learning model"
+        },
+        {
+            "question": "What is the main difference between Large Language Models (LLMs) and Generative AI?",
+            "options": [
+                "LLMs are always generative, Generative AI is never an LLM",
+                "There is no difference",
+                "LLMs are generally pre-trained with a large dataset and then fine-tuned, while Generative AI is not necessarily pre-trained",
+                "LLMs generate images, Generative AI generates text"
+            ],
+            "answer": "LLMs are generally pre-trained with a large dataset and then fine-tuned, while Generative AI is not necessarily pre-trained"
+        }
+    ]
+}

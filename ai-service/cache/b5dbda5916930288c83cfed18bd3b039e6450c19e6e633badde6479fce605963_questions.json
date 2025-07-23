@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is Node.js?",
+            "options": [
+                "A programming language",
+                "A JavaScript runtime environment",
+                "A web browser",
+                "A database"
+            ],
+            "answer": "A JavaScript runtime environment"
+        },
+        {
+            "question": "What is the primary method for importing modules in Node.js (as shown in the transcript)?",
+            "options": [
+                "`import` statement",
+                "`require()` function",
+                "`include()` directive",
+                "Using a package manager"
+            ],
+            "answer": "`require()` function"
+        },
+        {
+            "question": "What does the transcript use to create a simple web server?",
+            "options": [
+                "Express.js",
+                "The built-in `http` module",
+                "A third-party library",
+                "The `window` object"
+            ],
+            "answer": "The built-in `http` module"
+        },
+        {
+            "question": "What is the difference between `fs.readFile` and `fs.readFileSync`?",
+            "options": [
+                "`readFile` is synchronous, `readFileSync` is asynchronous",
+                "They perform different operations",
+                "`readFile` is faster",
+                "`readFileSync` is asynchronous, `readFile` is synchronous"
+            ],
+            "answer": "`readFileSync` is asynchronous, `readFile` is synchronous"
+        },
+        {
+            "question": "What is the significance of `process.env` in the context of the transcript?",
+            "options": [
+                "It's used for debugging purposes",
+                "It provides access to environment variables",
+                "It's a method for handling errors",
+                "It's used for creating HTTP requests"
+            ],
+            "answer": "It provides access to environment variables"
+        }
+    ]
+}

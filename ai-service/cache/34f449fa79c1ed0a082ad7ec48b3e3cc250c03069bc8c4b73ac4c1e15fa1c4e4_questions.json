@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary setting of the Weathering Waves story?",
+            "options": [
+                "Aetheric Sea",
+                "Mount Firmament",
+                "Solaris 3",
+                "Rena"
+            ],
+            "answer": "Solaris 3"
+        },
+        {
+            "question": "What catastrophic events plague Solaris 3?",
+            "options": [
+                "Meteor showers",
+                "Volcanic eruptions",
+                "The Lament",
+                "Earthquakes"
+            ],
+            "answer": "The Lament"
+        },
+        {
+            "question": "What is the TETH system, and what is its primary function?",
+            "options": [
+                "A weapon system",
+                "A communication network",
+                "A lament prediction machine",
+                "A transportation system"
+            ],
+            "answer": "A lament prediction machine"
+        },
+        {
+            "question": "Who is the Shke Keeper, and what is her role in the story?",
+            "options": [
+                "The Rover's enemy",
+                "A powerful goddess",
+                "A being created to stabilize the TETH core",
+                "A member of the Fraxus"
+            ],
+            "answer": "A being created to stabilize the TETH core"
+        },
+        {
+            "question": "What significant event happens at the beginning of the game?",
+            "options": [
+                "The Rover awakens in Jing Joe",
+                "The Rover defeats the Crownless",
+                "The Rover receives his TCID mark from a mysterious goddess",
+                "The Rover discovers the TETH system"
+            ],
+            "answer": "The Rover receives his TCID mark from a mysterious goddess"
+        },
+        {
+            "question": "Who are the Crownless and the Dreamless?",
+            "options": [
+                "Sentient weapons",
+                "Powerful gods",
+                "Entities the Rover has battled in the past",
+                "Members of the Fraxus"
+            ],
+            "answer": "Entities the Rover has battled in the past"
+        },
+        {
+            "question": "What is the Fraxus's primary goal, according to Jin Shei?",
+            "options": [
+                "To control the TETH system",
+                "To destroy Jing Joe",
+                "To cause another Lament",
+                "To capture the Rover"
+            ],
+            "answer": "To cause another Lament"
+        },
+        {
+            "question": "What is the significance of Mount Firmament?",
+            "options": [
+                "It's the location of the TETH system",
+                "It's a location protected by a temporal barrier",
+                "It's the home of the Fraxus",
+                "It's where the Rover first awakened"
+            ],
+            "answer": "It's a location protected by a temporal barrier"
+        },
+        {
+            "question": "Who is Abby, and what is her relationship with the Rover?",
+            "options": [
+                "A powerful weapon",
+                "A mysterious goddess",
+                "A being residing within the Rover's body",
+                "A member of the Black Shores"
+            ],
+            "answer": "A being residing within the Rover's body"
+        },
+        {
+            "question": "What is the final revelation about the Rover's past, as revealed by Sentinel J?",
+            "options": [
+                "The Rover is an ancient god",
+                "The Rover is a creation of the Fraxus",
+                "The Rover's memories were erased by the unknown goddess",
+                "The Rover's purpose is to participate in history and witness the development of civilizations"
+            ],
+            "answer": "The Rover's purpose is to participate in history and witness the development of civilizations"
+        }
+    ]
+}

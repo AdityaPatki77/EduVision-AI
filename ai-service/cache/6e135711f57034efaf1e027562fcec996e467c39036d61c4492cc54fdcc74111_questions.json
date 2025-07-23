@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is C# primarily designed to be?",
+            "options": [
+                "A complex, difficult-to-use language",
+                "A modern, easy-to-use language tightly integrated with the .NET Framework",
+                "A low-level programming language",
+                "A scripting language for web development"
+            ],
+            "answer": "A modern, easy-to-use language tightly integrated with the .NET Framework"
+        },
+        {
+            "question": "What are the two main components of the .NET Framework?",
+            "options": [
+                "The Java Virtual Machine (JVM) and the class library",
+                "The Common Language Runtime (CLR) and the class library",
+                "The compiler and the interpreter",
+                "The runtime environment and the standard template library"
+            ],
+            "answer": "The Common Language Runtime (CLR) and the class library"
+        },
+        {
+            "question": "How does C# achieve platform independence compared to C or C++?",
+            "options": [
+                "It uses a different compiler for each platform.",
+                "It compiles directly to machine code.",
+                "It compiles to intermediate language (IL) which is then translated to machine code at runtime.",
+                "It uses an interpreter instead of a compiler."
+            ],
+            "answer": "It compiles to intermediate language (IL) which is then translated to machine code at runtime."
+        },
+        {
+            "question": "What is the file extension for C# files?",
+            "options": [
+                ".cpp",
+                ".java",
+                ".cs",
+                ".exe"
+            ],
+            "answer": ".cs"
+        },
+        {
+            "question": "What command is used to run a C# program using the .NET CLI?",
+            "options": [
+                "dotnet run",
+                "csharp run",
+                "run",
+                "compile and run"
+            ],
+            "answer": "dotnet run"
+        },
+        {
+            "question": "What keyword is used to include a namespace in C#?",
+            "options": [
+                "import",
+                "include",
+                "using",
+                "namespace"
+            ],
+            "answer": "using"
+        },
+        {
+            "question": "What is the purpose of the `static` keyword in the `Main` method?",
+            "options": [
+                "To make the method inherit from another class",
+                "To make the method accessible only within the class",
+                "To make the method callable without creating an object of the class",
+                "To make the method return a value"
+            ],
+            "answer": "To make the method callable without creating an object of the class"
+        },
+        {
+            "question": "Which data type in C# is used to store whole numbers?",
+            "options": [
+                "float",
+                "double",
+                "string",
+                "int"
+            ],
+            "answer": "int"
+        },
+        {
+            "question": "How do you declare a float value in C#?",
+            "options": [
+                "By adding an 'f' at the end of the value",
+                "By adding an 'l' at the end of the value",
+                "By using the keyword 'float'",
+                "By using the keyword 'double'"
+            ],
+            "answer": "By adding an 'f' at the end of the value"
+        },
+        {
+            "question": "What is used to take user input from the console in C#?",
+            "options": [
+                "Console.Read()",
+                "Console.ReadLine()",
+                "Console.Write()",
+                "Console.WriteLine()"
+            ],
+            "answer": "Console.ReadLine()"
+        }
+    ]
+}

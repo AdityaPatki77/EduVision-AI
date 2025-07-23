@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What command sets up a basic package.json file?",
+            "options": [
+                "npm install",
+                "npm init-y",
+                "npm start",
+                "npm run dev"
+            ],
+            "answer": "npm init-y"
+        },
+        {
+            "question": "Which package is used to automatically restart the server on code changes?",
+            "answer": "Nodemon",
+            "options": [
+                "Express",
+                "Nodemon",
+                "npm",
+                "Webpack"
+            ]
+        },
+        {
+            "question": "What HTTP method is used to handle a GET request in Express.js?",
+            "options": [
+                "post",
+                "get",
+                "put",
+                "delete"
+            ],
+            "answer": "get"
+        },
+        {
+            "question": "What is the standard naming convention for the request and response objects in Express.js route handlers?",
+            "options": [
+                "req and res",
+                "request and response",
+                "r and s",
+                "data and result"
+            ],
+            "answer": "req and res"
+        },
+        {
+            "question": "Which Express.js method is best for sending JSON data to the client?",
+            "options": [
+                "send",
+                "status",
+                "download",
+                "json"
+            ],
+            "answer": "json"
+        }
+    ]
+}

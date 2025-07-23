@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary focus of this PHP crash course?",
+            "options": [
+                "Advanced PHP techniques for experienced developers",
+                "Building large-scale enterprise applications",
+                "Fundamentals of PHP and a small feedback application",
+                "Mastering Laravel framework"
+            ],
+            "answer": "Fundamentals of PHP and a small feedback application"
+        },
+        {
+            "question": "Where does PHP code get processed?",
+            "options": [
+                "In the user's web browser",
+                "On the client-side",
+                "On the server-side",
+                "Both client-side and server-side"
+            ],
+            "answer": "On the server-side"
+        },
+        {
+            "question": "What is the speaker's opinion on the criticism of PHP?",
+            "options": [
+                "He agrees with the criticism.",
+                "He believes the criticism is mostly unfounded.",
+                "He thinks the criticism is justified.",
+                "He ignores the criticism completely."
+            ],
+            "answer": "He believes the criticism is mostly unfounded."
+        },
+        {
+            "question": "What analogy does the speaker use to describe PHP?",
+            "options": [
+                "A high-end sports car",
+                "A sophisticated piece of machinery",
+                "A blue-collar language",
+                "A cutting-edge technology"
+            ],
+            "answer": "A blue-collar language"
+        },
+        {
+            "question": "Which two major applications are highlighted as reasons to learn PHP?",
+            "options": [
+                "React and Angular",
+                "Node.js and Express.js",
+                "WordPress and Laravel",
+                "Python and Django"
+            ],
+            "answer": "WordPress and Laravel"
+        },
+        {
+            "question": "What is LAMP stack?",
+            "options": [
+                "A type of cloud hosting service",
+                "A software suite for PHP development",
+                "A database management system",
+                "A programming language"
+            ],
+            "answer": "A software suite for PHP development"
+        },
+        {
+            "question": "What is suggested for beginners to set up their PHP development environment?",
+            "options": [
+                "Docker",
+                "Installing individual components separately",
+                "ZAMP or MAMP",
+                "Using a Linux operating system"
+            ],
+            "answer": "ZAMP or MAMP"
+        },
+        {
+            "question": "What type of database is mentioned in the context of the feedback application?",
+            "options": [
+                "MongoDB",
+                "PostgreSQL",
+                "SQLite",
+                "MySQL"
+            ],
+            "answer": "MySQL"
+        },
+        {
+            "question": "What does the speaker offer to viewers?",
+            "options": [
+                "A free online course",
+                "A paid mentorship program",
+                "A GitHub repository with code",
+                "A free trial of a cloud hosting service"
+            ],
+            "answer": "A GitHub repository with code"
+        },
+        {
+            "question": "What is the speaker's background?",
+            "options": [
+                "He is a full-time employee at a large tech company.",
+                "He is a university professor.",
+                "He has a freelancing background.",
+                "He is a student learning PHP."
+            ],
+            "answer": "He has a freelancing background."
+        }
+    ]
+}

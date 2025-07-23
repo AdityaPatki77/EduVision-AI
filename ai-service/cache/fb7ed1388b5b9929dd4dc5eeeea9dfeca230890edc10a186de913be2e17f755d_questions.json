@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the Traveler's initial goal in Teyvat?",
+            "options": [
+                "To become a god",
+                "To find their sibling",
+                "To defeat the Unknown God",
+                "To collect Visions"
+            ],
+            "answer": "To find their sibling"
+        },
+        {
+            "question": "Who is Paimon?",
+            "options": [
+                "The Anemo Archon",
+                "The Traveler's sibling",
+                "The Traveler's guide",
+                "A Fatui Harbinger"
+            ],
+            "answer": "The Traveler's guide"
+        },
+        {
+            "question": "What are Visions?",
+            "options": [
+                "Items used to summon Archons",
+                "Conduits for elemental power",
+                "Weapons used by the Fatui",
+                "Magical artifacts from Celestia"
+            ],
+            "answer": "Conduits for elemental power"
+        },
+        {
+            "question": "What is the name of the dragon that threatens Mondstadt?",
+            "options": [
+                "Durin",
+                "Dvalin",
+                "Stormterror",
+                "Both B and C"
+            ],
+            "answer": "Both B and C"
+        },
+        {
+            "question": "What caused Dvalin's corruption?",
+            "options": [
+                "The Unknown God's curse",
+                "Abyssal blood",
+                "The Fatui's manipulation",
+                "Barbatos's neglect"
+            ],
+            "answer": "Abyssal blood"
+        },
+        {
+            "question": "What is the Abyss Order's goal?",
+            "options": [
+                "To rule Teyvat",
+                "To revive Khaenri'ah",
+                "To destroy the Seven Nations",
+                "To steal all the Gnoses"
+            ],
+            "answer": "To destroy the Seven Nations"
+        },
+        {
+            "question": "What is a Gnosis?",
+            "options": [
+                "A type of Vision",
+                "A powerful weapon",
+                "A device used by Archons to tap into Celestia's power",
+                "A magical artifact from Khaenri'ah"
+            ],
+            "answer": "A device used by Archons to tap into Celestia's power"
+        },
+        {
+            "question": "Who steals Venti's Gnosis?",
+            "options": [
+                "The Tsaritsa",
+                "Childe",
+                "La Signora",
+                "Ningguang"
+            ],
+            "answer": "La Signora"
+        },
+        {
+            "question": "What is the name of the Geo Archon?",
+            "options": [
+                "Barbatos",
+                "Rex Lapis",
+                "Zhongli",
+                "Both B and C"
+            ],
+            "answer": "Both B and C"
+        },
+        {
+            "question": "What happens to Rex Lapis in Liyue?",
+            "options": [
+                "He ascends to Celestia",
+                "He is imprisoned by the Fatui",
+                "He dies",
+                "He abdicates his throne"
+            ],
+            "answer": "He dies"
+        }
+    ]
+}

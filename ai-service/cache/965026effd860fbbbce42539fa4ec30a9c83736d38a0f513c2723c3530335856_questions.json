@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "According to the speaker, what is the most crucial initial step in learning AI/ML?",
+            "options": [
+                "Learning Python",
+                "Becoming data literate",
+                "Working with AI models",
+                "Thinking like an engineer"
+            ],
+            "answer": "Thinking like an engineer"
+        },
+        {
+            "question": "Which programming language does the speaker recommend focusing on first?",
+            "options": [
+                "Java",
+                "C++",
+                "Python",
+                "JavaScript"
+            ],
+            "answer": "Python"
+        },
+        {
+            "question": "What does the speaker suggest as a practical application for early Python learning?",
+            "options": [
+                "Building complex neural networks",
+                "Developing advanced AI agents",
+                "Web scraping and data manipulation",
+                "Creating sophisticated LLMs"
+            ],
+            "answer": "Web scraping and data manipulation"
+        },
+        {
+            "question": "What is the primary reason the speaker emphasizes becoming 'data literate'?",
+            "options": [
+                "To impress potential employers",
+                "To understand advanced AI theory",
+                "Because data is crucial for successful AI/ML",
+                "To build complex data visualizations"
+            ],
+            "answer": "Because data is crucial for successful AI/ML"
+        },
+        {
+            "question": "After initial work with LLMs, what does the speaker recommend learning?",
+            "options": [
+                "Advanced calculus",
+                "Linear algebra",
+                "Core machine learning algorithms",
+                "NoSQL databases"
+            ],
+            "answer": "Core machine learning algorithms"
+        }
+    ]
+}

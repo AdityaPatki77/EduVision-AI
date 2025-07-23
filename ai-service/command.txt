@@ -1,0 +1,17 @@
+py -3.10 -m venv venv
+
+
+
+source venv/Scripts/activate
+
+venv\Scripts\activate
+
+python -m uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+
+go run main.go
+
+npm run dev
+
+http://localhost:5173/
+
+summarize model ---> facebook/bart-large-cnn

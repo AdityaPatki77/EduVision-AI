@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is Sun Jin Wu's initial rank as a hunter?",
+            "options": [
+                "S-rank",
+                "A-rank",
+                "B-rank",
+                "E-rank"
+            ],
+            "answer": "E-rank"
+        },
+        {
+            "question": "What catastrophic event triggers the main plot of the story?",
+            "options": [
+                "A volcanic eruption",
+                "A global pandemic",
+                "A double dungeon appearing within a dungeon",
+                "A meteor strike"
+            ],
+            "answer": "A double dungeon appearing within a dungeon"
+        },
+        {
+            "question": "What unique ability does Jin Wu gain that allows him to level up like in a video game?",
+            "options": [
+                "Teleportation",
+                "Super strength",
+                "The ability to become a 'player'",
+                "Invisibility"
+            ],
+            "answer": "The ability to become a 'player'"
+        },
+        {
+            "question": "What is the name of Jin Wu's signature ability that allows him to revive the dead as shadows?",
+            "options": [
+                "Shadow Summoning",
+                "Necromancy",
+                "Reanimation",
+                "Soul Binding"
+            ],
+            "answer": "Necromancy"
+        },
+        {
+            "question": "What significant change occurs in Jin Wu's appearance and personality as he levels up?",
+            "options": [
+                "He becomes shorter and weaker",
+                "He remains largely unchanged",
+                "He becomes taller, stronger, and more confident",
+                "He develops a crippling fear of spiders"
+            ],
+            "answer": "He becomes taller, stronger, and more confident"
+        },
+        {
+            "question": "What is the name of the powerful S-rank dungeon that Jin Wu eventually confronts?",
+            "options": [
+                "The Dragon's Lair",
+                "The Tower of Trials",
+                "The Demon's Castle",
+                "The Goblin King's Fortress"
+            ],
+            "answer": "The Demon's Castle"
+        },
+        {
+            "question": "What is the primary motivation behind Jin Wu's quest to conquer the Demon's Castle?",
+            "options": [
+                "To become the strongest hunter",
+                "To gain immense wealth",
+                "To find a cure for his mother's illness",
+                "To prove himself to his rivals"
+            ],
+            "answer": "To find a cure for his mother's illness"
+        },
+        {
+            "question": "Who is the formidable opponent that initially poses a significant challenge to Jin Wu, almost defeating him?",
+            "options": [
+                "The Chimera Ant King",
+                "Ice Link",
+                "The Orc Boss",
+                "The Red Knight"
+            ],
+            "answer": "The Red Knight"
+        },
+        {
+            "question": "What is the name of the powerful ant-like creature that emerges as a major threat towards the end of the story?",
+            "options": [
+                "The Ant Queen",
+                "The Giant Ant",
+                "The Chimera Ant King",
+                "The Winged Ant"
+            ],
+            "answer": "The Chimera Ant King"
+        },
+        {
+            "question": "According to the narrator, what is the primary reason for their enjoyment of the show 'Solo Leveling'?",
+            "options": [
+                "Its complex plot and character development",
+                "Its profound philosophical themes",
+                "Its well-written narrative and compelling characters",
+                "Its cool visuals and action sequences"
+            ],
+            "answer": "Its cool visuals and action sequences"
+        }
+    ]
+}

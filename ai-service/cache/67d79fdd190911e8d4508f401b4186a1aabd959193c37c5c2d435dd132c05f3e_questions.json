@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is the key difference between an AI agent and an automation?",
+            "options": [
+                "Agents use AI, automations do not.",
+                "Agents follow a predefined sequence, automations dynamically decide how to complete tasks.",
+                "Agents dynamically decide how to complete tasks, automations follow a predefined sequence.",
+                "There is no significant difference; the terms are interchangeable."
+            ],
+            "answer": "Agents dynamically decide how to complete tasks, automations follow a predefined sequence."
+        },
+        {
+            "question": "What are the three key components of an AI agent?",
+            "options": [
+                "Processor, memory, and storage",
+                "Brain, memory, and tools",
+                "Input, processing, and output",
+                "Hardware, software, and network"
+            ],
+            "answer": "Brain, memory, and tools"
+        },
+        {
+            "question": "What is the role of the 'brain' in an AI agent?",
+            "options": [
+                "To store past interactions and context",
+                "To interact with the outside world",
+                "To handle reasoning, planning, and language generation",
+                "To manage workflows and delegate tasks"
+            ],
+            "answer": "To handle reasoning, planning, and language generation"
+        },
+        {
+            "question": "What is the purpose of 'guardrails' in an AI agent?",
+            "options": [
+                "To improve the agent's speed and efficiency",
+                "To prevent the agent from making bad decisions or hallucinating",
+                "To enhance the agent's ability to learn and adapt",
+                "To facilitate communication between the agent and external systems"
+            ],
+            "answer": "To prevent the agent from making bad decisions or hallucinating"
+        },
+        {
+            "question": "According to the transcript, what is the best place to start when building AI agents?",
+            "options": [
+                "With a multi-agent system",
+                "With a single agent system",
+                "By building a complex system and simplifying later",
+                "By using pre-built templates and tools"
+            ],
+            "answer": "With a single agent system"
+        }
+    ]
+}

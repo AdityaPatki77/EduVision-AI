@@ -1,0 +1,98 @@
+{
+    "questions": [
+        {
+            "question": "What is generative AI, and how does it differ from traditional AI?",
+            "options": [
+                "Generative AI classifies existing content, while traditional AI generates new content.",
+                "Generative AI generates new content, while traditional AI analyzes and processes existing data.",
+                "Generative AI uses only text data, while traditional AI uses various data types.",
+                "Generative AI is faster than traditional AI, but less accurate."
+            ],
+            "answer": "Generative AI generates new content, while traditional AI analyzes and processes existing data.",
+            "keywords": [
+                "generative AI",
+                "traditional AI",
+                "new content",
+                "existing data",
+                "generate",
+                "analyze"
+            ],
+            "explanation": "Generative AI's core function is the creation of original content (text, images, etc.), unlike traditional AI which focuses on analyzing and interpreting existing data."
+        },
+        {
+            "question": "What is a key limitation of generative AI, as described in the transcript?",
+            "options": [
+                "Lack of access to information.",
+                "Inability to learn and adapt.",
+                "High cost and complexity.",
+                "User's imagination and communication skills."
+            ],
+            "answer": "User's imagination and communication skills.",
+            "keywords": [
+                "imagination",
+                "communication",
+                "prompt engineering",
+                "limitations",
+                "user"
+            ],
+            "explanation": "The transcript emphasizes that the effectiveness of generative AI heavily relies on the user's ability to formulate effective prompts and understand the AI's capabilities."
+        },
+        {
+            "question": "What is 'prompt engineering' in the context of generative AI?",
+            "options": [
+                "The process of training AI models.",
+                "The technical setup required to use AI tools.",
+                "The art of crafting effective input prompts for AI.",
+                "The method of evaluating AI output."
+            ],
+            "answer": "The art of crafting effective input prompts for AI.",
+            "keywords": [
+                "prompt",
+                "input",
+                "effective",
+                "communication",
+                "AI"
+            ],
+            "explanation": "Prompt engineering refers to the skill of creating clear and effective prompts to guide the AI and obtain desired results."
+        },
+        {
+            "question": "How are large language models (LLMs) trained?",
+            "options": [
+                "Through manual programming by experts.",
+                "By feeding them vast amounts of text data and using techniques like backpropagation.",
+                "By directly instructing them on how to respond to specific prompts.",
+                "Through observation of human behavior in real-world scenarios."
+            ],
+            "answer": "By feeding them vast amounts of text data and using techniques like backpropagation.",
+            "keywords": [
+                "training",
+                "text data",
+                "backpropagation",
+                "neural network",
+                "parameters"
+            ],
+            "explanation": "LLMs are trained by exposing them to massive datasets of text, allowing them to learn patterns and predict the next word in a sequence. Backpropagation is a key algorithm used in this process."
+        },
+        {
+            "question": "What are some examples of different types of generative AI models?",
+            "options": [
+                "Only text-to-text models.",
+                "Text-to-text, image-to-image, and video-to-video models.",
+                "Text-to-text, text-to-image, image-to-text, speech-to-text, text-to-audio, and text-to-video models.",
+                "Models that only generate images and videos."
+            ],
+            "answer": "Text-to-text, text-to-image, image-to-text, speech-to-text, text-to-audio, and text-to-video models.",
+            "keywords": [
+                "text-to-text",
+                "text-to-image",
+                "image-to-text",
+                "speech-to-text",
+                "text-to-audio",
+                "text-to-video",
+                "generative AI",
+                "models"
+            ],
+            "explanation": "The transcript mentions various types of generative AI models that can handle different input and output formats, including text, images, audio, and video."
+        }
+    ]
+}

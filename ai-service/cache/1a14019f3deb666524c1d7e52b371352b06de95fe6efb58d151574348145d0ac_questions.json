@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What two software pieces are required before starting the React course?",
+            "options": [
+                "A text editor and a web server",
+                "A web browser and a code editor",
+                "An IDE and a compiler",
+                "A terminal and a debugger"
+            ],
+            "answer": "A web browser and a code editor"
+        },
+        {
+            "question": "What is the recommended web browser for web development mentioned in the transcript?",
+            "options": [
+                "Mozilla Firefox",
+                "Microsoft Edge",
+                "Google Chrome",
+                "Safari"
+            ],
+            "answer": "Google Chrome"
+        },
+        {
+            "question": "What is the recommended code editor for web development mentioned in the transcript?",
+            "answer": "VS Code",
+            "options": [
+                "Sublime Text",
+                "Atom",
+                "VS Code",
+                "Notepad++"
+            ]
+        },
+        {
+            "question": "What is the name of the VS Code extension used to automatically refresh the webpage when code changes?",
+            "options": [
+                "AutoSave",
+                "Live Server",
+                "Code Runner",
+                "Prettier"
+            ],
+            "answer": "Live Server"
+        },
+        {
+            "question": "What file extension indicates a file containing JavaScript code?",
+            "options": [
+                ".html",
+                ".css",
+                ".js",
+                ".py"
+            ],
+            "answer": ".js"
+        }
+    ]
+}

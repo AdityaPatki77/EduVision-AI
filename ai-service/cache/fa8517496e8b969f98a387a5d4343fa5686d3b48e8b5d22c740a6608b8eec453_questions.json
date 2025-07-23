@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is the main topic of the session?",
+            "options": [
+                "Data Science",
+                "Artificial Intelligence",
+                "Machine Learning",
+                "Big Data"
+            ],
+            "answer": "Machine Learning"
+        },
+        {
+            "question": "According to the McKinsey report, how many people in the US are lacking expertise in big data?",
+            "options": [
+                "10,000 - 20,000",
+                "140,000 - 190,000",
+                "1,000,000 - 1,500,000",
+                "2,500,000 - 3,000,000"
+            ],
+            "answer": "140,000 - 190,000"
+        },
+        {
+            "question": "What is one key characteristic of machine learning?",
+            "options": [
+                "It requires explicit programming for each task.",
+                "It uses data to detect patterns and adjust actions.",
+                "It only works with small datasets.",
+                "It cannot improve from experience."
+            ],
+            "answer": "It uses data to detect patterns and adjust actions."
+        },
+        {
+            "question": "Which company is mentioned as using machine learning for face recognition and friend suggestions?",
+            "options": [
+                "Google",
+                "Uber",
+                "Amazon",
+                "Facebook"
+            ],
+            "answer": "Facebook"
+        },
+        {
+            "question": "What percentage increase in accuracy did Uber see in delivery and pickup after implementing machine learning?",
+            "options": [
+                "10%",
+                "16%",
+                "26%",
+                "36%"
+            ],
+            "answer": "26%"
+        }
+    ]
+}
