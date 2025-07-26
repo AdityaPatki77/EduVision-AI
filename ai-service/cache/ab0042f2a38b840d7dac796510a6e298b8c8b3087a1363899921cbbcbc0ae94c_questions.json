@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary focus of the video?",
+            "options": [
+                "The history of the Uchiha clan",
+                "A detailed summary of the Naruto anime series",
+                "The creation of the Hidden Leaf Village",
+                "The powers of the Otsutsuki clan"
+            ],
+            "answer": "A detailed summary of the Naruto anime series"
+        },
+        {
+            "question": "Who are Hagoromo and Hamura?",
+            "options": [
+                "Two powerful ninjas from Konoha",
+                "Kaguya's sons, the first humans with chakra",
+                "Founders of the Uchiha and Senju clans",
+                "Madara and Hashirama's ancestors"
+            ],
+            "answer": "Kaguya's sons, the first humans with chakra"
+        },
+        {
+            "question": "What significant event happened 75 years before the present in the Naruto timeline?",
+            "options": [
+                "The founding of Konohagakure",
+                "The beginning of the Fourth Great Ninja War",
+                "The birth of Madara Uchiha and Hashirama Senju",
+                "The sealing of Kaguya Otsutsuki"
+            ],
+            "answer": "The birth of Madara Uchiha and Hashirama Senju"
+        },
+        {
+            "question": "What was Hashirama Senju's primary goal in establishing Konohagakure?",
+            "options": [
+                "To establish Uchiha clan dominance",
+                "To create a village where children wouldn't die in war",
+                "To control all the other villages",
+                "To become Hokage"
+            ],
+            "answer": "To create a village where children wouldn't die in war"
+        },
+        {
+            "question": "What significant event led to Madara Uchiha's departure from Konohagakure?",
+            "options": [
+                "His defeat by Hashirama Senju",
+                "His brother Izuna's death",
+                "His disillusionment with the village's peace",
+                "The discovery of the truth about the Senju and Uchiha clans"
+            ],
+            "answer": "His disillusionment with the village's peace"
+        },
+        {
+            "question": "What role did Black Zetsu play in the history of the Naruto world?",
+            "options": [
+                "He trained Naruto in Sage Mode",
+                "He manipulated Madara and others to achieve Kaguya's goals",
+                "He was the first Hokage of Konohagakure",
+                "He founded the Akatsuki organization"
+            ],
+            "answer": "He manipulated Madara and others to achieve Kaguya's goals"
+        },
+        {
+            "question": "What happened during the Third Great Ninja War that significantly impacted Kakashi Hatake?",
+            "options": [
+                "He lost his left eye and Obito was presumed dead",
+                "He became Hokage",
+                "He awakened his Mangekyo Sharingan",
+                "He killed Rin"
+            ],
+            "answer": "He lost his left eye and Obito was presumed dead"
+        },
+        {
+            "question": "Who was responsible for the death of Jiraiya?",
+            "options": [
+                "Pain",
+                "Orochimaru",
+                "Madara Uchiha",
+                "Obito Uchiha"
+            ],
+            "answer": "Pain"
+        },
+        {
+            "question": "What major event occurs 12 years before Naruto's story begins?",
+            "options": [
+                "The birth of Naruto Uzumaki",
+                "The death of the Third Hokage",
+                "Nagato's parents are killed, leading to his path of revenge",
+                "The start of the Fourth Great Ninja War"
+            ],
+            "answer": "Nagato's parents are killed, leading to his path of revenge"
+        },
+        {
+            "question": "How does the Naruto story conclude?",
+            "options": [
+                "With Sasuke's death",
+                "With Naruto becoming Hokage and marrying Hinata",
+                "With the destruction of Konohagakure",
+                "With the defeat of Kaguya Otsutsuki and the end of the Fourth Great Ninja War"
+            ],
+            "answer": "With the defeat of Kaguya Otsutsuki and the end of the Fourth Great Ninja War"
+        }
+    ]
+}

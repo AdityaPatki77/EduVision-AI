@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is Tanjiro's initial emotional state at the beginning of the transcript?",
+            "options": [
+                "Depressed",
+                "Angry",
+                "Happy",
+                "Excited"
+            ],
+            "answer": "Happy"
+        },
+        {
+            "question": "What is the primary reason Tanjiro travels to a doctor?",
+            "options": [
+                "He is injured",
+                "Nezuko is injured",
+                "He needs a haircut",
+                "Nezuko needs a haircut"
+            ],
+            "answer": "Nezuko is injured"
+        },
+        {
+            "question": "What unique ability does Nezuko possess due to her demon nature?",
+            "options": [
+                "Super strength",
+                "Flight",
+                "Vaporization in sunlight",
+                "Teleportation"
+            ],
+            "answer": "Vaporization in sunlight"
+        },
+        {
+            "question": "What item does Tanjiro's companion create to protect Nezuko from the sun?",
+            "options": [
+                "A special ointment",
+                "A sunproof basket",
+                "A large umbrella",
+                "Dark glasses"
+            ],
+            "answer": "A sunproof basket"
+        },
+        {
+            "question": "What is the significance of the rock Tanjiro must cut during his training?",
+            "options": [
+                "It's a test of strength",
+                "It's a test of his mental fortitude",
+                "It's a test of his sword skills",
+                "It's a test of his speed"
+            ],
+            "answer": "It's a test of his mental fortitude"
+        },
+        {
+            "question": "Who becomes Tanjiro's mentor after he struggles with the rock-cutting test?",
+            "options": [
+                "A fellow Demon Slayer",
+                "An old man",
+                "A young boy",
+                "A demon"
+            ],
+            "answer": "A young boy"
+        },
+        {
+            "question": "What significant event occurs during Tanjiro's final selection?",
+            "options": [
+                "He meets his future wife",
+                "He loses many companions",
+                "He defeats a powerful demon",
+                "He gains a new sword"
+            ],
+            "answer": "He loses many companions"
+        },
+        {
+            "question": "What unusual method does Nezuko use to defeat enemies later in the story?",
+            "options": [
+                "She uses a special type of sword",
+                "She uses a unique breathing technique",
+                "She transforms into a Beyblade",
+                "She uses her superhuman strength"
+            ],
+            "answer": "She transforms into a Beyblade"
+        },
+        {
+            "question": "What is the name of the upper-ranked demon Tanjiro confronts towards the end of the transcript?",
+            "options": [
+                "Muzan",
+                "Akaza",
+                "Douma",
+                "Gyutaro"
+            ],
+            "answer": "Akaza"
+        },
+        {
+            "question": "What is the final state of Tanjiro and his companions at the very end of the transcript?",
+            "options": [
+                "They are all dead",
+                "They are all injured but alive",
+                "They have successfully defeated Muzan",
+                "They are preparing for a new mission"
+            ],
+            "answer": "They are all injured but alive"
+        }
+    ]
+}

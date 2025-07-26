@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary focus of the video?",
+            "options": [
+                "TOEFL preparation",
+                "IELTS preparation",
+                "University applications",
+                "Immigration procedures"
+            ],
+            "answer": "IELTS preparation"
+        },
+        {
+            "question": "According to the speaker, what is the most crucial aspect of IELTS preparation?",
+            "options": [
+                "Buying expensive courses",
+                "Reading extensively",
+                "Practicing test questions",
+                "Memorizing vocabulary"
+            ],
+            "answer": "Practicing test questions"
+        },
+        {
+            "question": "What key difference is highlighted between IELTS Academic and General Training?",
+            "options": [
+                "Listening and speaking sections",
+                "Overall test duration",
+                "Reading and writing sections",
+                "Computer-based vs. paper-based options"
+            ],
+            "answer": "Reading and writing sections"
+        },
+        {
+            "question": "In the Listening section, what type of questions are NOT mentioned?",
+            "options": [
+                "Multiple choice",
+                "Sentence completion",
+                "Essay writing",
+                "Map labeling"
+            ],
+            "answer": "Essay writing"
+        },
+        {
+            "question": "What is a significant challenge in the Listening section, according to the speaker?",
+            "options": [
+                "Multiple audio sources",
+                "Fast speech rate",
+                "Unfamiliar accents",
+                "Hearing recordings only once"
+            ],
+            "answer": "Hearing recordings only once"
+        },
+        {
+            "question": "In the Reading section, what question type is described as most challenging?",
+            "options": [
+                "Matching headings",
+                "Sentence completion",
+                "True/False/Not Given",
+                "Chart completion"
+            ],
+            "answer": "True/False/Not Given"
+        },
+        {
+            "question": "What is the minimum word count for Task 1 of the Writing section?",
+            "options": [
+                "100 words",
+                "150 words",
+                "200 words",
+                "250 words"
+            ],
+            "answer": "150 words"
+        },
+        {
+            "question": "What is the speaker's advice for the Writing section regarding word count?",
+            "options": [
+                "Exceed the minimum word count significantly",
+                "Stick to the minimum word count exactly",
+                "Write as much as possible within the time limit",
+                "Stick to the minimum word count plus a small buffer"
+            ],
+            "answer": "Stick to the minimum word count plus a small buffer"
+        },
+        {
+            "question": "How long does the Speaking section last?",
+            "options": [
+                "5-10 minutes",
+                "11-14 minutes",
+                "11-14 minutes",
+                "20-25 minutes"
+            ],
+            "answer": "11-14 minutes"
+        },
+        {
+            "question": "What is the speaker's recommendation for booking the Speaking test slot?",
+            "options": [
+                "Wait until the last minute",
+                "Book it early",
+                "Try to get a slot immediately after the other sections",
+                "It doesn't matter when you book it"
+            ],
+            "answer": "Book it early"
+        }
+    ]
+}

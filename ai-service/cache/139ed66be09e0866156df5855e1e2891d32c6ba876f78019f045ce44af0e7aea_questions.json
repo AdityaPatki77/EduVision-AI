@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Who is Yuji Itadori, and what significant event happens early in the season?",
+            "options": [
+                "A high school student who becomes a renowned Jujutsu sorcerer after defeating Sukuna.",
+                "A physically strong high school student who eats a cursed finger and becomes possessed by Sukuna.",
+                "A weak high school student who is trained by Gojo to become a powerful sorcerer.",
+                "A Jujutsu sorcerer who is tasked with finding Sukuna's fingers."
+            ],
+            "answer": "A physically strong high school student who eats a cursed finger and becomes possessed by Sukuna."
+        },
+        {
+            "question": "What is Satoru Gojo's initial stance on Yuji's fate, and how does it change?",
+            "options": [
+                "He wants Yuji executed but later decides to train him.",
+                "He wants to protect Yuji at all costs and fights the elders for his life.",
+                "He is indifferent to Yuji's fate and only cares about defeating Sukuna.",
+                "He initially supports Yuji's execution but changes his mind after seeing his potential."
+            ],
+            "answer": "He wants Yuji executed but later decides to train him."
+        },
+        {
+            "question": "What significant event occurs at the Detention Center?",
+            "options": [
+                "Yuji's hand is torn off, leading him to unleash Sukuna.",
+                "Gojo defeats a powerful curse, saving Yuji and his friends.",
+                "Nobara is captured by the curses and Yuji must rescue her.",
+                "The trio successfully seals the cursed womb without any casualties."
+            ],
+            "answer": "Yuji's hand is torn off, leading him to unleash Sukuna."
+        },
+        {
+            "question": "What is the purpose of the Kyoto Sister School Exchange Event?",
+            "options": [
+                "A friendly competition between schools to foster camaraderie.",
+                "A covert operation to eliminate Yuji Itadori.",
+                "A training exercise to prepare students for future missions.",
+                "An opportunity for students to showcase their skills and gain recognition."
+            ],
+            "answer": "A covert operation to eliminate Yuji Itadori."
+        },
+        {
+            "question": "What deal does Sukuna make with Yuji?",
+            "options": [
+                "Sukuna promises to help Yuji become stronger in exchange for his loyalty.",
+                "Sukuna gives Yuji access to his cursed energy in exchange for his freedom.",
+                "Sukuna tricks Yuji into making a deal that allows him to take over at any time.",
+                "Sukuna offers Yuji immortality in exchange for his soul."
+            ],
+            "answer": "Sukuna tricks Yuji into making a deal that allows him to take over at any time."
+        },
+        {
+            "question": "Who is Mahito, and what is his significant ability?",
+            "options": [
+                "A powerful curse that can manipulate cursed energy.",
+                "A human who plots against Gojo and Yuji.",
+                "A curse that can transfigure humans, causing them immense suffering.",
+                "A special grade curse that controls the minds of others."
+            ],
+            "answer": "A curse that can transfigure humans, causing them immense suffering."
+        },
+        {
+            "question": "What happens to Junpei during his conflict with Yuji and Mahito?",
+            "options": [
+                "Junpei is killed by Mahito after being manipulated.",
+                "Junpei is saved by Yuji and becomes a Jujutsu sorcerer.",
+                "Junpei defeats Mahito and becomes a powerful ally.",
+                "Junpei and Yuji team up to defeat Mahito, but Junpei is severely injured."
+            ],
+            "answer": "Junpei is killed by Mahito after being manipulated."
+        },
+        {
+            "question": "What is revealed about Maki Zenin during the Kyoto Sister School Exchange Event?",
+            "options": [
+                "She is secretly working with the Kyoto school to kill Yuji.",
+                "She has no cursed energy but possesses superhuman strength.",
+                "She is a powerful sorcerer with a hidden technique.",
+                "She is revealed to be a double agent, working for both schools."
+            ],
+            "answer": "She has no cursed energy but possesses superhuman strength."
+        },
+        {
+            "question": "What is the significance of the Shibuya Incident, as alluded to at the end of the season?",
+            "options": [
+                "A major battle between Jujutsu sorcerers and curses.",
+                "A training exercise to prepare for future threats.",
+                "A political event that changes the landscape of the Jujutsu world.",
+                "A planned ambush to seal away Gojo and obtain Sukuna's fingers."
+            ],
+            "answer": "A planned ambush to seal away Gojo and obtain Sukuna's fingers."
+        },
+        {
+            "question": "What happens to Megumi Fushiguro at the end of the season?",
+            "options": [
+                "He is promoted to a Special Grade sorcerer.",
+                "He is severely injured and is hospitalized.",
+                "He obtains one of Sukuna's fingers.",
+                "He is killed by a powerful curse."
+            ],
+            "answer": "He obtains one of Sukuna's fingers."
+        }
+    ]
+}

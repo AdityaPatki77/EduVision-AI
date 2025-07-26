@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What item does Light Yagami stumble upon that changes his life?",
+            "options": [
+                "A diary",
+                "A Death Note",
+                "A magic book",
+                "A map"
+            ],
+            "answer": "A Death Note"
+        },
+        {
+            "question": "Who is Ryuk, and what is his role in the story?",
+            "options": [
+                "A detective investigating Light",
+                "A Shinigami who gives Light the Death Note",
+                "Light's best friend",
+                "A member of the police task force"
+            ],
+            "answer": "A Shinigami who gives Light the Death Note"
+        },
+        {
+            "question": "What is the name given to Light Yagami as the serial killer?",
+            "options": [
+                "L",
+                "Kira",
+                "Ryuk",
+                "Near"
+            ],
+            "answer": "Kira"
+        },
+        {
+            "question": "Who is L, and what is his profession?",
+            "options": [
+                "Light's father",
+                "A world-renowned detective",
+                "A Shinigami",
+                "A high school student"
+            ],
+            "answer": "A world-renowned detective"
+        },
+        {
+            "question": "What initially helps L narrow down Kira's actions?",
+            "options": [
+                "Kira's handwriting",
+                "Kira's phone records",
+                "The times of day the killings occur",
+                "Witness testimonies"
+            ],
+            "answer": "The times of day the killings occur"
+        },
+        {
+            "question": "What is Light's father's profession?",
+            "options": [
+                "A teacher",
+                "A detective",
+                "The head of the police force",
+                "A doctor"
+            ],
+            "answer": "The head of the police force"
+        },
+        {
+            "question": "What does Light do to initially throw L off his trail after the suspicion falls on students?",
+            "options": [
+                "He stops killing people",
+                "He changes his killing method",
+                "He changes the time of his killings",
+                "He moves to a different city"
+            ],
+            "answer": "He changes the time of his killings"
+        },
+        {
+            "question": "Who is Misa Amane?",
+            "options": [
+                "L's assistant",
+                "A second Death Note owner",
+                "Light's sister",
+                "A random victim of Kira"
+            ],
+            "answer": "A second Death Note owner"
+        },
+        {
+            "question": "What is the consequence of Light's father's conflict of interest?",
+            "options": [
+                "He is fired",
+                "He is arrested",
+                "He is sent to solitary confinement",
+                "He is forced to spend time with his wife"
+            ],
+            "answer": "He is forced to spend time with his wife"
+        },
+        {
+            "question": "Who is Near, and what is his role in the later part of the story?",
+            "options": [
+                "L's successor",
+                "A rival detective",
+                "Light's accomplice",
+                "A random bystander"
+            ],
+            "answer": "L's successor"
+        }
+    ]
+}

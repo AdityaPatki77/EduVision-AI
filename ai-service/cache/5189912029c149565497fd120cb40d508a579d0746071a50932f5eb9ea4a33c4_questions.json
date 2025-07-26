@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the main mission given to Agent Twilight?",
+            "options": [
+                "To infiltrate a terrorist organization.",
+                "To establish a fake family to get close to Donovan Desmond.",
+                "To rescue a kidnapped child.",
+                "To steal a valuable painting."
+            ],
+            "answer": "To establish a fake family to get close to Donovan Desmond."
+        },
+        {
+            "question": "What is Anya's special ability?",
+            "options": [
+                "Super strength.",
+                "Invisibility.",
+                "Telepathy.",
+                "Shapeshifting."
+            ],
+            "answer": "Telepathy."
+        },
+        {
+            "question": "Why does Yor initially pretend to be married to Loid?",
+            "options": [
+                "She is forced to by her superiors.",
+                "It's a convenient arrangement for both of their professions.",
+                "She is in love with Loid.",
+                "She wants to adopt Anya."
+            ],
+            "answer": "It's a convenient arrangement for both of their professions."
+        },
+        {
+            "question": "What significant event happens at the tailor shop?",
+            "options": [
+                "Loid and Yor meet for the first time.",
+                "Anya is kidnapped.",
+                "Loid and Yor decide to maintain their fake marriage.",
+                "Loid's mission is compromised."
+            ],
+            "answer": "Loid and Yor decide to maintain their fake marriage."
+        },
+        {
+            "question": "What is the purpose of the family outing that Loid organizes?",
+            "options": [
+                "To celebrate Anya's birthday.",
+                "To improve their family dynamic for the Eden Academy interview.",
+                "To escape from their pursuers.",
+                "To spend quality time together."
+            ],
+            "answer": "To improve their family dynamic for the Eden Academy interview."
+        },
+        {
+            "question": "What happens during the Eden Academy interview?",
+            "options": [
+                "The Forgers pass with flying colors.",
+                "Murdoch Swan tries to sabotage the interview.",
+                "Anya reveals her telepathic abilities.",
+                "Loid confesses his true identity."
+            ],
+            "answer": "Murdoch Swan tries to sabotage the interview."
+        },
+        {
+            "question": "How does Anya get into Eden Academy?",
+            "options": [
+                "She passes the interview.",
+                "Henry Henderson intervenes on their behalf.",
+                "Loid bribes the school officials.",
+                "Yor uses her assassin skills to intimidate the staff."
+            ],
+            "answer": "Henry Henderson intervenes on their behalf."
+        },
+        {
+            "question": "What is the significance of the eight Stella Stars?",
+            "options": [
+                "They are needed to win a school competition.",
+                "They are required for Anya to become an Imperial Scholar.",
+                "They are a symbol of Anya's academic achievements.",
+                "They are a secret code used by the spies."
+            ],
+            "answer": "They are required for Anya to become an Imperial Scholar."
+        },
+        {
+            "question": "What happens during the shopping excursion?",
+            "options": [
+                "Anya gets kidnapped.",
+                "Yor teaches Anya self-defense.",
+                "Loid reveals his true identity to Anya.",
+                "Anya makes a new friend."
+            ],
+            "answer": "Yor teaches Anya self-defense."
+        },
+        {
+            "question": "What is the final mission that Loid undertakes in Season 1?",
+            "options": [
+                "To stop a terrorist attack involving dogs carrying explosives.",
+                "To rescue Anya from a kidnapping.",
+                "To retrieve a stolen painting.",
+                "To expose a corrupt government official."
+            ],
+            "answer": "To stop a terrorist attack involving dogs carrying explosives."
+        }
+    ]
+}

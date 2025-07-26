@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is Ichigo Kurosaki's unusual ability?",
+            "options": [
+                "He can fly.",
+                "He can see ghosts.",
+                "He can speak to animals.",
+                "He has super strength."
+            ],
+            "answer": "He can see ghosts."
+        },
+        {
+            "question": "Who is Rukia Kuchiki?",
+            "options": [
+                "Ichigo's teacher.",
+                "A Shinigami.",
+                "Ichigo's sister.",
+                "A Hollow."
+            ],
+            "answer": "A Shinigami."
+        },
+        {
+            "question": "What happens after Rukia transfers some of her powers to Ichigo?",
+            "options": [
+                "Rukia becomes stronger.",
+                "Ichigo becomes a Shinigami.",
+                "Rukia dies.",
+                "Ichigo loses his powers."
+            ],
+            "answer": "Ichigo becomes a Shinigami."
+        },
+        {
+            "question": "What is the name of the powerful Hollow that attacked and killed Ichigo's mother?",
+            "options": [
+                "Menos Grande",
+                "Grand Fisher",
+                "Ulquiorra",
+                "Ginjo"
+            ],
+            "answer": "Grand Fisher"
+        },
+        {
+            "question": "What are Orihime's abilities?",
+            "options": [
+                "Super speed.",
+                "Telekinesis.",
+                "Defensive shields and healing.",
+                "Summoning animals."
+            ],
+            "answer": "Defensive shields and healing."
+        },
+        {
+            "question": "Why are high-ranking Soul Society officers trying to arrest Rukia?",
+            "options": [
+                "She stole something.",
+                "She committed murder.",
+                "She gave a human Shinigami powers.",
+                "She deserted her post."
+            ],
+            "answer": "She gave a human Shinigami powers."
+        },
+        {
+            "question": "Who rescues Ichigo from Renji and Byakuya?",
+            "options": [
+                "Kisuke Urahara.",
+                "His father.",
+                "Yoruichi.",
+                "Chad."
+            ],
+            "answer": "Kisuke Urahara."
+        },
+        {
+            "question": "What is Bankai?",
+            "options": [
+                "A type of food.",
+                "A Shinigami's ultimate technique.",
+                "A type of Hollow.",
+                "A Quincy's weapon."
+            ],
+            "answer": "A Shinigami's ultimate technique."
+        },
+        {
+            "question": "What is the name of the organization that Ginjo leads?",
+            "options": [
+                "The Espada",
+                "The Gotei 13",
+                "Xcution",
+                "The Quincy"
+            ],
+            "answer": "Xcution"
+        },
+        {
+            "question": "What happens to Ichigo at the end of the story?",
+            "options": [
+                "He becomes a captain in the Gotei 13.",
+                "He loses his ability to see spirits.",
+                "He dies.",
+                "He moves to Soul Society."
+            ],
+            "answer": "He loses his ability to see spirits."
+        }
+    ]
+}

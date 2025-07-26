@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What beings were at war for control of the world before humans?",
+            "options": [
+                "Humans and monsters",
+                "Dinosaurs and sea creatures",
+                "Ancient civilizations",
+                "Gods and demons"
+            ],
+            "answer": "Dinosaurs and sea creatures"
+        },
+        {
+            "question": "Who created the House of Evolution and what was his goal?",
+            "options": [
+                "Blast to study God's power",
+                "Dr. Genus to surpass human limitations",
+                "Saitama to train",
+                "King to become stronger"
+            ],
+            "answer": "Dr. Genus to surpass human limitations"
+        },
+        {
+            "question": "What event inspired the creation of the Hero Association?",
+            "options": [
+                "The Deep Sea King's attack",
+                "Saitama's defeat of Crablante",
+                "The Super Fight Tournament",
+                "The appearance of Boros"
+            ],
+            "answer": "Saitama's defeat of Crablante"
+        },
+        {
+            "question": "What prophecy was told to Boros?",
+            "options": [
+                "He would find a worthy opponent on Earth",
+                "He would become the strongest warrior",
+                "He would destroy the Earth",
+                "He would discover a powerful artifact"
+            ],
+            "answer": "He would find a worthy opponent on Earth"
+        },
+        {
+            "question": "What ability did Shababa possess, and what was its origin?",
+            "options": [
+                "Teleportation from her training",
+                "Future sight from God",
+                "Super strength from monsters",
+                "Invisibility from a mutation"
+            ],
+            "answer": "Future sight from God"
+        },
+        {
+            "question": "What was the outcome of Saitama's hero exam?",
+            "options": [
+                "He ranked A-Class",
+                "He ranked B-Class",
+                "He ranked S-Class",
+                "He ranked C-Class"
+            ],
+            "answer": "He ranked C-Class"
+        },
+        {
+            "question": "Who was the first known victim of God's manipulation?",
+            "options": [
+                "Psykos",
+                "Orochi",
+                "Homeless Emperor",
+                "Garo"
+            ],
+            "answer": "Homeless Emperor"
+        },
+        {
+            "question": "What caused the Monster Association's war to begin?",
+            "options": [
+                "The creation of Orochi",
+                "The attack on the Hero Association",
+                "Garo's hero hunt",
+                "The release of Elder Centipede"
+            ],
+            "answer": "Garo's hero hunt"
+        },
+        {
+            "question": "What rare artifact did Saitama, Flashy Flash, and Mumen Rider discover?",
+            "options": [
+                "One of God's transmitter cubes",
+                "An ancient weapon",
+                "A map to God's dimension",
+                "A powerful monster cell"
+            ],
+            "answer": "One of God's transmitter cubes"
+        },
+        {
+            "question": "What was the final outcome of Saitama's battle with Garou?",
+            "options": [
+                "Saitama killed Garou",
+                "Garou killed Saitama",
+                "They both died",
+                "Saitama defeated Garou, but Garou was later revived"
+            ],
+            "answer": "Saitama defeated Garou, but Garou was later revived"
+        }
+    ]
+}

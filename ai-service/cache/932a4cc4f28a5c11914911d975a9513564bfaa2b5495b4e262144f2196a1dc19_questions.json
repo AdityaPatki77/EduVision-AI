@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What was Gojo's weakness at the beginning of the Shibuya Incident, as exploited by Toji?",
+            "options": [
+                "Lack of cursed energy",
+                "Inability to use domain expansion",
+                "Exhaustion from lack of sleep",
+                "Weakness to Toji's unique weapons"
+            ],
+            "answer": "Exhaustion from lack of sleep"
+        },
+        {
+            "question": "What was Suguru Geto's curse technique, and what was a significant drawback?",
+            "options": [
+                "Cursed Spirit Manipulation; inability to absorb cursed spirits with masters",
+                "Domain Expansion; high cursed energy consumption",
+                "Reverse Curse Technique; risk of self-destruction",
+                "Hollow Purple; limited range"
+            ],
+            "answer": "Cursed Spirit Manipulation; inability to absorb cursed spirits with masters"
+        },
+        {
+            "question": "What was Toji Fushiguro's unique ability, and what was his family background?",
+            "options": [
+                "Cursed energy manipulation; wealthy sorcerer family",
+                "Immense strength and sharp senses; abused member of the Zenin clan",
+                "Domain Expansion; prestigious Jujutsu High graduate",
+                "Reverse Curse Technique; powerful sorcerer family"
+            ],
+            "answer": "Immense strength and sharp senses; abused member of the Zenin clan"
+        },
+        {
+            "question": "What historical figure was central to the plot, and what was their unique ability?",
+            "options": [
+                "Mahito; soul manipulation",
+                "Kenjaku; body swapping",
+                "Jogo; fire manipulation",
+                "Tengen; immortality"
+            ],
+            "answer": "Tengen; immortality"
+        },
+        {
+            "question": "What event triggered Suguru Geto's descent into villainy?",
+            "options": [
+                "The death of his parents",
+                "The failure of a mission",
+                "A conversation with Yuki Tsukumo",
+                "The Shibuya Incident"
+            ],
+            "answer": "A conversation with Yuki Tsukumo"
+        },
+        {
+            "question": "What was the primary goal of Mahito's group in Season 1, and how did their strategy change in Season 2?",
+            "options": [
+                "To kill Gojo; to seal Gojo away",
+                "To destroy humanity; to create a new world order",
+                "To control Tengen; to overthrow the Jujutsu Society",
+                "To find Sukuna; to unleash Sukuna upon the world"
+            ],
+            "answer": "To kill Gojo; to seal Gojo away"
+        },
+        {
+            "question": "What was the nature of the binding vow between Mahito, Geto, and Mechamaru?",
+            "options": [
+                "Mahito would heal Mechamaru in exchange for information on Gojo's movements",
+                "Geto would protect Mechamaru in exchange for his loyalty",
+                "Mechamaru would assassinate Gojo in exchange for immortality",
+                "All three would work together to overthrow the Jujutsu Society"
+            ],
+            "answer": "Mahito would heal Mechamaru in exchange for information on Gojo's movements"
+        },
+        {
+            "question": "What crucial information did Toji reveal to Gojo before his death?",
+            "options": [
+                "The location of the Prison Realm",
+                "The Zenin clan's plans for Megumi",
+                "The existence of Kenjaku",
+                "The true nature of Tengen's immortality"
+            ],
+            "answer": "The Zenin clan's plans for Megumi"
+        },
+        {
+            "question": "How did Kenjaku (the fake Geto) gain access to Cursed Spirit Manipulation?",
+            "options": [
+                "He inherited it from his ancestor.",
+                "He stole it from Suguru Geto's corpse.",
+                "He developed it through his own research.",
+                "He was born with it."
+            ],
+            "answer": "He stole it from Suguru Geto's corpse."
+        },
+        {
+            "question": "What were the five declarations made by the Jujutsu Society after the Shibuya Incident?",
+            "options": [
+                "Gojo's imprisonment, Geto's execution, Yaga's retirement, Yuji's exile, Sukuna's containment",
+                "Gojo's expulsion, Geto's death penalty reinstated, Yaga's execution, Yuji's immediate execution, public announcement of cursed spirits",
+                "Gojo's death, Geto's exoneration, Yaga's promotion, Yuji's protection, Sukuna's release",
+                "Gojo's rehabilitation, Geto's pardon, Yaga's resignation, Yuji's training, Sukuna's sealing"
+            ],
+            "answer": "Gojo's expulsion, Geto's death penalty reinstated, Yaga's execution, Yuji's immediate execution, public announcement of cursed spirits"
+        }
+    ]
+}

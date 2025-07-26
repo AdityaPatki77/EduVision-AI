@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What initially brings peace to Earth in the story?",
+            "options": [
+                "The arrival of Namekians",
+                "The defeat of Demon King Piccolo by Goku",
+                "A treaty signed with alien races",
+                "The creation of powerful androids"
+            ],
+            "answer": "The defeat of Demon King Piccolo by Goku"
+        },
+        {
+            "question": "Why is Yamcha absent from the Kame House reunion?",
+            "options": [
+                "He's on a secret mission.",
+                "He's training in a secluded location.",
+                "He cheated on Bulma.",
+                "He's been kidnapped by Raditz."
+            ],
+            "answer": "He cheated on Bulma."
+        },
+        {
+            "question": "What significant event occurs at the Kame House reunion?",
+            "options": [
+                "Goku reveals his alien heritage.",
+                "Piccolo reveals his plan to conquer Earth.",
+                "Gohan is born.",
+                "Goku's grind set breaks."
+            ],
+            "answer": "Goku reveals his alien heritage."
+        },
+        {
+            "question": "What is Raditz's initial demand of Goku?",
+            "options": [
+                "To join him in conquering Earth.",
+                "To kill 100 people.",
+                "To hand over the Dragon Balls.",
+                "To reveal the location of Kami."
+            ],
+            "answer": "To kill 100 people."
+        },
+        {
+            "question": "Who teams up with Goku to fight Raditz?",
+            "options": [
+                "Vegeta",
+                "Gohan",
+                "Piccolo",
+                "Tien Shinhan"
+            ],
+            "answer": "Piccolo"
+        },
+        {
+            "question": "What crucial element is destroyed to prevent Vegeta from transforming into a Great Ape?",
+            "options": [
+                "The Dragon Balls",
+                "The Kame House",
+                "The Moon",
+                "Raditz's scouter"
+            ],
+            "answer": "The Moon"
+        },
+        {
+            "question": "What is the primary reason for the Saiyans' arrival on Earth after a year?",
+            "options": [
+                "To seek revenge on Goku.",
+                "To collect the Dragon Balls.",
+                "To conquer the planet.",
+                "To find a new home."
+            ],
+            "answer": "To collect the Dragon Balls."
+        },
+        {
+            "question": "Who sacrifices themselves to save Gohan during the Saiyan invasion?",
+            "options": [
+                "Goku",
+                "Piccolo",
+                "Krillin",
+                "Yamcha"
+            ],
+            "answer": "Piccolo"
+        },
+        {
+            "question": "What significant transformation does Goku achieve during his battle with Frieza?",
+            "options": [
+                "Super Saiyan 2",
+                "Super Saiyan 3",
+                "Super Saiyan",
+                "Golden Great Ape"
+            ],
+            "answer": "Super Saiyan"
+        },
+        {
+            "question": "What is the ultimate fate of Namek?",
+            "options": [
+                "It is destroyed by Frieza.",
+                "It is conquered by the Saiyans.",
+                "It is transformed into a paradise.",
+                "It is evacuated to a new location."
+            ],
+            "answer": "It is destroyed by Frieza."
+        }
+    ]
+}
