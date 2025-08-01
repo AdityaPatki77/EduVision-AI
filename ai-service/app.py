@@ -334,4 +334,4 @@ if __name__ == "__main__":
     import uvicorn
     # Corrected the uvicorn.run command to match the filename 'app.py'
     # To run, use the command in your terminal: uvicorn app:app --reload
-    uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("app:app", port=int(os.environ.get('PORT', 8000)))
