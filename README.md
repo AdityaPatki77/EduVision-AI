@@ -62,8 +62,7 @@ Python Backend (Inference Engine)
 
 **Aditya Patki**  
 GitHub: https://github.com/AdityaPatki77  
-LinkedIn: https://linkedin.com/in/aditya-patki
-
+LinkedIn:https://www.linkedin.com/in/aditya-patki-6aaa22252
 ## License
 
 This project is released under the MIT License.
